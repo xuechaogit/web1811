@@ -24,3 +24,6 @@
 //git checkout -b 分支名
 //git switch -c 分支名
 //git merge 分支名
+
+//删除
+//git branch -d 分支名
