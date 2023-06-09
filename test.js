@@ -17,6 +17,10 @@
 
 //git 查看分支
 //git branch 分支名
+
 //git checkout 分支名
 //git switch 分支名
+
 //git checkout -b 分支名
+//git switch -c 分支名
+//git merge 分支名
